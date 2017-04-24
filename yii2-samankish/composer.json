@@ -1,0 +1,21 @@
+{
+    "name": "rezamansouri/yii2-samankish",
+    "description": "saman kish iran online payment for yii2",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","samankish","soapclient","nusoap"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "rezamansouri",
+            "email": "rezamansouri.01@gamil.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "rezamansouri\\samankish\\": ""
+        }
+    }
+}
